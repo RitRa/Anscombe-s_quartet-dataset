@@ -1,2 +1,2 @@
-# Anscombe's_quartet-dataset
+# Anscombe's Quartet Dataset
 An Investigation in Anscombe’s quartet dataset
