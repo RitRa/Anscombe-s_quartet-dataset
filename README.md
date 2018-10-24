@@ -2,7 +2,7 @@
 ## Fundamentals of Data Analysis
 
 
-# Anscombe's Quartet Dataset
+#### Anscombe's Quartet Dataset
 An Investigation in Anscombe’s quartet dataset
 
 
