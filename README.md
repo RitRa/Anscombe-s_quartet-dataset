@@ -13,11 +13,7 @@ any speculation you can find regarding how it might have been created.
 4.  Explain why the dataset is interesting, referring to the plots and statistics above.
 
 
-
-
-
-#### To Do list
-
+### To Do List
 - [x] Explain the background to the dataset
 - [x] Plot the interesting aspects of the dataset
 - [x] Calculate the descriptive statistics of the variables in the dataset.
@@ -26,4 +22,3 @@ any speculation you can find regarding how it might have been created.
 - [x] correlation of x and y
 - [x] Linear regression line, bayesian linear regression
 - [x] Explain why the dataset is interesting
-
