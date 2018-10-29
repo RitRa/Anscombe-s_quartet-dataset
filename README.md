@@ -14,6 +14,11 @@ any speculation you can find regarding how it might have been created.
 
 
 - [x] Explain the background to the dataset
-- [ ] Plot the interesting aspects of the dataset
+- [x] Plot the interesting aspects of the dataset
 - [ ] Calculate the descriptive statistics of the variables in the dataset.
+- [ x] mean of x and y
+- [x ] standard Deviation of x and y
+- [x ] correlation of x and y
+- [ ] Linear regression line
+
 - [ ] Explain why the dataset is interesting
