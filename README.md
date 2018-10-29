@@ -17,6 +17,7 @@ any speculation you can find regarding how it might have been created.
 
 
 #### To Do list
+
 - [x] Explain the background to the dataset
 - [x] Plot the interesting aspects of the dataset
 - [x] Calculate the descriptive statistics of the variables in the dataset.
