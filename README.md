@@ -5,6 +5,7 @@
 #### Anscombe's Quartet Dataset
 An Investigation in Anscombe’s quartet dataset
 
+![Anscombe's Quartet Dataset Chart](https://github.com/RitRa/Anscombe-s_quartet-dataset/blob/master/images/chart.png) "Anscombe's Quartet Dataset Charts")
 
 1. Explain the background to the dataset – who created it, when it was created, and
 any speculation you can find regarding how it might have been created.
