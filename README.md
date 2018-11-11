@@ -5,8 +5,7 @@
 #### Anscombe's Quartet Dataset
 An Investigation in Anscombe’s quartet dataset
 
-![Anscombe's Quartet Dataset Chart]
-(https://github.com/RitRa/Anscombe-s_quartet-dataset/blob/master/images/chart.png) 
+![Anscombe's Quartet Dataset Chart](https://github.com/RitRa/Anscombe-s_quartet-dataset/blob/master/images/chart.png) 
 
 "Anscombe's Quartet Dataset Charts"
 
