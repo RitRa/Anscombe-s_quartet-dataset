@@ -8,7 +8,7 @@
 
 An Investigation in Anscombe’s quartet dataset
 
-![Anscombe's Quartet Dataset Chart](/RitRa/Anscombe-s_quartet-dataset/raw/master/assets/chart.png) 
+![Anscombe's Quartet Dataset Chart](/RitR/anscombe-s_quartet-dataset/images/chart.png) 
 
 "Anscombe's Quartet Dataset Charts"
 
