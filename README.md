@@ -2,7 +2,10 @@
 ## Fundamentals of Data Analysis
 
 
-#### Anscombe's Quartet Dataset
+#### Anscombe's Quartet Dataset 
+[To view this project](https://nbviewer.jupyter.org/github/RitRa/Anscombe-s_quartet-dataset/blob/master/Anscombe%27s%20Quartet%20Dataset.ipynb)
+
+
 An Investigation in Anscombe’s quartet dataset
 
 ![Anscombe's Quartet Dataset Chart](https://github.com/RitRa/Anscombe-s_quartet-dataset/blob/master/images/chart.png) 
